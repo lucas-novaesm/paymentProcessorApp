@@ -26,9 +26,6 @@ Abaixo está um diagrama UML representando as classes do sistema de processament
 ## 🛠️ Tecnologias Utilizadas
 - **C#** - Linguagem principal do projeto
 - **.NET Core** - Framework para execução do código
-- **Entity Framework** - ORM para gerenciamento do banco de dados
-- **SQL Server** - Banco de dados para armazenar contas e transações
-
 ---
 
 ## 1️⃣ Criação das Contas 🏦
