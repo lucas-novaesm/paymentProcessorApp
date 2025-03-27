@@ -1,0 +1,7 @@
+C:\Users\lucno\source\repos\PaymentProcessorApp\PaymentProcessorApp\obj\Debug\PaymentProcessorApp.csproj.AssemblyReference.cache
+C:\Users\lucno\source\repos\PaymentProcessorApp\PaymentProcessorApp\obj\Debug\PaymentProcessorApp.csproj.CoreCompileInputs.cache
+C:\Users\lucno\source\repos\PaymentProcessorApp\PaymentProcessorApp\bin\Debug\PaymentProcessorApp.exe.config
+C:\Users\lucno\source\repos\PaymentProcessorApp\PaymentProcessorApp\bin\Debug\PaymentProcessorApp.exe
+C:\Users\lucno\source\repos\PaymentProcessorApp\PaymentProcessorApp\bin\Debug\PaymentProcessorApp.pdb
+C:\Users\lucno\source\repos\PaymentProcessorApp\PaymentProcessorApp\obj\Debug\PaymentProcessorApp.exe
+C:\Users\lucno\source\repos\PaymentProcessorApp\PaymentProcessorApp\obj\Debug\PaymentProcessorApp.pdb
